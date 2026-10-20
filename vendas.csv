@@ -1,0 +1,101 @@
+id_venda,data,produto,categoria,quantidade,preco_unitario
+1,2026-03-12,Notebook,Eletrônicos,4,3500.0
+2,2026-01-27,Romance,Livros,9,45.0
+3,2026-01-09,Monitor,Eletrônicos,1,1100.0
+4,2026-03-01,Smartphone,Eletrônicos,9,2200.0
+5,2026-06-16,Smartphone,Eletrônicos,9,2200.0
+6,2026-04-25,Cafeteira,Casa,10,189.9
+7,2026-02-10,Camiseta,Roupas,7,59.9
+8,2026-02-09,Calça Jeans,Roupas,4,149.9
+9,2026-01-24,Camiseta,Roupas,7,59.9
+10,2026-03-30,Fone de Ouvido,Eletrônicos,10,250.0
+11,2026-04-28,Camiseta,Roupas,9,59.9
+12,2026-01-21,Monitor,Eletrônicos,9,1100.0
+13,2026-06-08,Tênis,Roupas,6,299.9
+14,2026-01-18,Biografia,Livros,1,60.0
+15,2026-01-21,Ficção Científica,Livros,4,55.0
+16,2026-03-13,Monitor,Eletrônicos,8,1100.0
+17,2026-04-05,Camiseta,Roupas,6,59.9
+18,2026-03-10,Biografia,Livros,2,60.0
+19,2026-03-04,Biografia,Livros,3,60.0
+20,2026-03-11,Liquidificador,Casa,9,159.9
+21,2026-03-25,Biografia,Livros,1,60.0
+22,2026-03-22,Romance,Livros,7,45.0
+23,2026-02-24,Camiseta,Roupas,10,59.9
+24,2026-06-17,Camiseta,Roupas,8,59.9
+25,2026-04-28,Luminária,Casa,3,89.9
+26,2026-03-05,Camiseta,Roupas,9,59.9
+27,2026-05-30,Tênis,Roupas,7,299.9
+28,2026-02-26,Liquidificador,Casa,3,159.9
+29,2026-01-13,Cafeteira,Casa,2,189.9
+30,2026-02-10,Biografia,Livros,7,60.0
+31,2026-04-08,Monitor,Eletrônicos,10,1100.0
+32,2026-03-06,Luminária,Casa,9,89.9
+33,2026-06-24,Notebook,Eletrônicos,9,3500.0
+34,2026-03-29,Tênis,Roupas,2,299.9
+35,2026-02-10,Calça Jeans,Roupas,8,149.9
+36,2026-05-09,Fone de Ouvido,Eletrônicos,3,250.0
+37,2026-06-13,Fone de Ouvido,Eletrônicos,9,250.0
+38,2026-04-06,Romance,Livros,3,45.0
+39,2026-05-06,Fone de Ouvido,Eletrônicos,1,250.0
+40,2026-03-20,Fone de Ouvido,Eletrônicos,4,250.0
+41,2026-05-26,Smartphone,Eletrônicos,2,2200.0
+42,2026-01-18,Monitor,Eletrônicos,9,1100.0
+43,2026-06-18,Romance,Livros,8,45.0
+44,2026-05-16,Ficção Científica,Livros,10,55.0
+45,2026-05-19,Cafeteira,Casa,4,189.9
+46,2026-06-21,Calça Jeans,Roupas,6,149.9
+47,2026-04-26,Luminária,Casa,2,89.9
+48,2026-01-17,Romance,Livros,6,45.0
+49,2026-05-31,Smartphone,Eletrônicos,4,2200.0
+50,2026-06-11,Notebook,Eletrônicos,1,3500.0
+51,2026-01-09,Romance,Livros,6,45.0
+52,2026-03-13,Smartphone,Eletrônicos,8,2200.0
+53,2026-02-03,Biografia,Livros,10,60.0
+54,2026-05-02,Cafeteira,Casa,7,189.9
+55,2026-01-25,Romance,Livros,7,45.0
+56,2026-04-16,Calça Jeans,Roupas,8,149.9
+57,2026-01-16,Notebook,Eletrônicos,7,3500.0
+58,2026-03-05,Camiseta,Roupas,4,59.9
+59,2026-04-25,Biografia,Livros,3,60.0
+60,2026-03-13,Cafeteira,Casa,8,189.9
+61,2026-04-24,Romance,Livros,9,45.0
+62,2026-06-16,Notebook,Eletrônicos,9,3500.0
+63,2026-03-02,Notebook,Eletrônicos,3,3500.0
+64,2026-05-04,Liquidificador,Casa,4,159.9
+65,2026-02-12,Cafeteira,Casa,7,189.9
+66,2026-03-09,Monitor,Eletrônicos,8,1100.0
+67,2026-06-28,Calça Jeans,Roupas,9,149.9
+68,2026-02-18,Cafeteira,Casa,5,189.9
+69,2026-05-29,Romance,Livros,9,45.0
+70,2026-01-15,Fone de Ouvido,Eletrônicos,1,250.0
+71,2026-05-16,Luminária,Casa,3,89.9
+72,2026-02-17,Notebook,Eletrônicos,2,3500.0
+73,2026-04-14,Smartphone,Eletrônicos,2,2200.0
+74,2026-06-02,Biografia,Livros,1,60.0
+75,2026-06-18,Monitor,Eletrônicos,10,1100.0
+76,2026-02-22,Calça Jeans,Roupas,6,149.9
+77,2026-04-12,Ficção Científica,Livros,3,55.0
+78,2026-03-22,Calça Jeans,Roupas,2,149.9
+79,2026-06-09,Monitor,Eletrônicos,10,1100.0
+80,2026-05-18,Notebook,Eletrônicos,4,3500.0
+81,2026-03-31,Camiseta,Roupas,2,59.9
+82,2026-03-14,Ficção Científica,Livros,3,55.0
+83,2026-06-30,Luminária,Casa,5,89.9
+84,2026-06-19,Fone de Ouvido,Eletrônicos,2,250.0
+85,2026-01-30,Ficção Científica,Livros,2,55.0
+86,2026-03-14,Ficção Científica,Livros,10,55.0
+87,2026-03-29,Biografia,Livros,4,60.0
+88,2026-05-06,Tênis,Roupas,5,299.9
+89,2026-06-12,Notebook,Eletrônicos,7,3500.0
+90,2026-01-01,Camiseta,Roupas,6,59.9
+91,2026-03-09,Biografia,Livros,3,60.0
+92,2026-06-30,Luminária,Casa,7,89.9
+93,2026-01-20,Notebook,Eletrônicos,3,3500.0
+94,2026-05-30,Fone de Ouvido,Eletrônicos,9,250.0
+95,2026-02-02,Ficção Científica,Livros,1,55.0
+96,2026-01-11,Calça Jeans,Roupas,6,149.9
+97,2026-03-05,Biografia,Livros,2,60.0
+98,2026-04-15,Tênis,Roupas,10,299.9
+99,2026-02-11,Romance,Livros,3,45.0
+100,2026-02-15,Cafeteira,Casa,6,189.9
