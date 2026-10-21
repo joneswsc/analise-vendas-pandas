@@ -1,5 +1,7 @@
 # Análise de Vendas com pandas
 
+[![Testes](https://github.com/joneswsc/analise-vendas-pandas/actions/workflows/testes.yml/badge.svg?branch=main)](https://github.com/joneswsc/analise-vendas-pandas/actions/workflows/testes.yml)
+
 Sistema simples de análise de vendas em Python: gera dados fictícios, calcula o faturamento e produz um relatório em Markdown.
 
 ## Funcionalidades
