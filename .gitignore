@@ -25,3 +25,6 @@ credentials*.json
 *.swp
 .DS_Store
 Thumbs.db
+
+# Relatórios de teste gerados (ex.: JUnit XML)
+reports/
