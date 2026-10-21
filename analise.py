@@ -26,8 +26,10 @@ def faturamento_por_categoria(df: pd.DataFrame) -> pd.Series:
 
 
 def top_produtos(df: pd.DataFrame, n: int = 5) -> pd.Series:
-    """Os `n` produtos com maior quantidade vendida."""
-    return df.groupby("produto")["quantidade"].sum().sort_values(ascending=False).head(n)
+    """Os `n` produtos com maior quantidade vendida; empates em ordem alfabética."""
+    # groupby já devolve os produtos em ordem alfabética; a ordenação estável a preserva nos empates.
+    totais = df.groupby("produto")["quantidade"].sum()
+    return totais.sort_values(ascending=False, kind="stable").head(n)
 
 
 def formatar_moeda(valor: float) -> str:

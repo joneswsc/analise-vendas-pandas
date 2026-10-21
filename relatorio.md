@@ -20,5 +20,5 @@
 | 1 | Camiseta | 68 |
 | 2 | Romance | 67 |
 | 3 | Monitor | 65 |
-| 4 | Calça Jeans | 49 |
-| 5 | Cafeteira | 49 |
+| 4 | Cafeteira | 49 |
+| 5 | Calça Jeans | 49 |

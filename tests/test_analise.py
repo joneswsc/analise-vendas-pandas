@@ -88,6 +88,11 @@ def test_top_produtos(vendas):
     assert list(top.values) == sorted(top.values, reverse=True)
 
 
+def test_top_produtos_desempata_em_ordem_alfabetica(vendas):
+    # B e D empatam com 1 unidade na 5ª posição; B vem antes por ordem alfabética.
+    assert list(top_produtos(vendas).index) == ["E", "A", "C", "F", "B"]
+
+
 def test_formatar_moeda():
     assert formatar_moeda(1234567.891) == "R$ 1.234.567,89"
     assert formatar_moeda(0) == "R$ 0,00"
@@ -101,6 +106,12 @@ def test_relatorio_markdown(vendas):
     assert "## Faturamento por categoria" in md
     assert "## Top 5 produtos mais vendidos" in md
     assert "R$ 231,00" in md
+
+
+def test_relatorio_porcentagem_no_formato_brasileiro(vendas):
+    md = gerar_relatorio(vendas)
+    assert "| Y | R$ 120,00 | 51,9% |" in md  # 120 / 231
+    assert "| X | R$ 50,00 | 21,6% |" in md  # 50 / 231
 
 
 def test_salvar_relatorio(tmp_path):
